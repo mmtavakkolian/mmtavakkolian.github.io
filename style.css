@@ -6,11 +6,12 @@ h1 {
   color: purple;
 }
 
-#red {
+.red {
   color: red;
 }
 
 #big-font {
+    color: 
   font-size: 40px;
 }
 
